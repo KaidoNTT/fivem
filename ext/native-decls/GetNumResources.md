@@ -9,4 +9,7 @@ int GET_NUM_RESOURCES();
 ```
 
 
+
 ## Return value
+Amount of resources
+
